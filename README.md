@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Projeto realizado na aula de Estrutura de Dados, da graduação em Engenharia de Software do Centro Universitário do Distrito Federal (UDF).<br>Desenvolvido a fim de compreender os conceitos do tipo Lista e Árvore, o projeto apresenta características da Lista encadeada e ordenada e implementação de operações básicas usando Python e C#.</p>
+<p align="left">Olá, me chamo Letícia. Que bom que chegou até aqui!<br>Este projeto foi realizado na aula de Estrutura de Dados, da graduação em Engenharia de Software do Centro Universitário do Distrito Federal (UDF).<br>Desenvolvido a fim de compreender os conceitos do tipo Lista e Árvore, o projeto apresenta características da Lista encadeada e ordenada e implementação de operações básicas usando Python e C#.</p>
 
 ###
 
